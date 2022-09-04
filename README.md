@@ -1,7 +1,5 @@
 # qb-vehicleshop
 
-** GABZ PDM SUPPORTED **
-
 **Test Drives:**
 * Configurable time
 * Returns player once time is up
